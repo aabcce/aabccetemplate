@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TestRunConfiguration id="223e2610-d23e-4ba0-89d8-b05063cf2e82" name="本地测试运行" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2006">
+  <Description>这是本地测试运行的默认测试运行配置。</Description>
+  <Timeouts runTimeout="0" testTimeout="300000" agentNotRespondingTimeout="300000" deploymentTimeout="300000" />
+  <Deployment />
+  <NamingScheme />
+  <Hosts />
+</TestRunConfiguration>
