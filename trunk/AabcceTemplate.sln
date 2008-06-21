@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8710978A-E743-4AC3-995B-30DE7623D978}"
+	ProjectSection(SolutionItems) = preProject
+		AabcceTemplate.vsmdi = AabcceTemplate.vsmdi
+		localtestrun.testrunconfig = localtestrun.testrunconfig
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AabcceTemplate.Engine", "AabcceTemplate.Engine\AabcceTemplate.Engine.csproj", "{4C0EDC58-EF81-4310-B654-9274BDBF6E3D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AabcceTemplate.Engine.Test", "AabcceTemplate.Engine.Test\AabcceTemplate.Engine.Test.csproj", "{B2955028-4765-4141-A595-499F39AD4441}"
+EndProject
+Global
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = AabcceTemplate.vsmdi
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C0EDC58-EF81-4310-B654-9274BDBF6E3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C0EDC58-EF81-4310-B654-9274BDBF6E3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C0EDC58-EF81-4310-B654-9274BDBF6E3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C0EDC58-EF81-4310-B654-9274BDBF6E3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2955028-4765-4141-A595-499F39AD4441}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2955028-4765-4141-A595-499F39AD4441}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2955028-4765-4141-A595-499F39AD4441}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2955028-4765-4141-A595-499F39AD4441}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		VisualSVNWorkingCopyRoot = 
+	EndGlobalSection
+EndGlobal
